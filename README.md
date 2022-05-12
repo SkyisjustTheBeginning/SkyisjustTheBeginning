@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Jon Mathews.
+- 👋 Hi, My name is Jon M.M
 - 👀 I'm a certified Python programmer.
 - 🌱 I’m currently learning C++ and JavaScript as well
 - 📫 How to reach me - Contact me via email - sianusgs@gmail.com
